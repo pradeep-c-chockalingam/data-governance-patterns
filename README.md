@@ -38,6 +38,12 @@ Patterns for policy-driven workflows, approvals, and risk-based control enforcem
 ## Initial Patterns
 
 - Validation-by-Default Framework
+- Access Control Model for Governed Data Platforms
+
+## Current Patterns
+
+- [Validation-by-Default Framework](patterns/validation-by-default.md)
+- [Access Control Model for Governed Data Platforms](patterns/access-control-model.md)
 
 ---
 
