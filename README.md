@@ -6,6 +6,18 @@ This repository documents reusable data governance patterns for building scalabl
 
 The focus is on operationalizing governance as a platform capability rather than treating it as a downstream control or manual process.
 
+## Related Architecture Context
+
+This repository focuses on governance patterns and should be viewed as part of a broader architecture:
+
+- [Governed Lakehouse Architecture](https://github.com/pradeep-c-chockalingam/governed-lakehouse-architecture)  
+  Reference architecture, governance overlay, and architecture decision records
+
+- [AI Governance and RAG Patterns](https://github.com/pradeep-c-chockalingam/ai-governance-rag-patterns)  
+  Runtime AI governance, data-in-use controls, and explainability patterns
+
+Together, these repositories describe how governance is implemented across data platforms and AI systems in regulated environments.
+
 ## Core Philosophy
 
 - Governance should be embedded into platform design
